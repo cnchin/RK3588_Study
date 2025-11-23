@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RK3588_TEST_LED</string>
+    <string name="led_open">"打开"</string>
+    <string name="led_close">"关闭"</string>
+</resources>
